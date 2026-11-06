@@ -10,7 +10,7 @@ sections:
       title: |
         Li Lab 
       image:
-        filename: Lilab.jpg
+        filename: /imagrs/Lilab.jpg
       text: |
         <br>
         

@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Li Lab # Website name
-baseURL: 'https://xlab.bio/' # Website URL
+baseURL: 'https://chenyuezhang-111.github.io/xlab-website/' # Website URL
 
 ############################
 ## LANGUAGE

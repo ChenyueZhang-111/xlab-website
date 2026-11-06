@@ -10,7 +10,7 @@ sections:
       title: |
         Li Lab 
       image:
-        filename: Lilab.jpg
+        filename: https://chenyuezhang-111.github.io/xlab-website/Lilab.jpg
       text: |
         <br>
         

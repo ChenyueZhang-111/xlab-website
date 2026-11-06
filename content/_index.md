@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-       Li Lab 
+        Li Lab 
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-      Welcome to Professor Xin Li's Research Group.
+        Welcome to Professor Xin Li's Research Group.
   - block: collection
     content:
       title: Latest News

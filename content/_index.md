@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Li Lab 
-      image:
-        filename: https://chenyuezhang-111.github.io/xlab-website/Lilab.jpg
+        Li Lab
       text: |
         <br>
         
         Welcome to Professor Xin Li's Research Group.
+    image:
+        filename: https://chenyuezhang-111.github.io/xlab-website/Lilab.jpg
   - block: collection
     content:
       title: Latest News

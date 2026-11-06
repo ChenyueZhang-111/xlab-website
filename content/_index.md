@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+       Li Lab 
       image:
         filename: welcome.jpg
       text: |

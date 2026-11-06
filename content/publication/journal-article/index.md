@@ -2,15 +2,15 @@
 title: "An example journal article"
 authors:
 - admin
-- Robert Ford
+- 
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-10-06"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,10 +21,10 @@ publication_types: ["article-journal"]
 publication: "Plant Methods"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Background:Pennycress and camelina are two important novel biofuel oilseed crop species. Their seeds contain high content of oil that can be easily converted into biodiesel or jet fuel, while the left-over materials are usually made into press cake meals for feeding livestock. Therefore, the ability to manipulate the seed coat encapsulating the oil- and protein-rich embryos is critical for improving seed oil production and press cake quality.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -34,7 +34,9 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: http://doi.org/10.1186/s13007-023-01114-x
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+        
+        
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,8 +47,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
+  caption: ''
+  focal_point: "center"
   preview_only: false
 
 # Associated Projects (optional).

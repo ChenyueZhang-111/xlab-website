@@ -63,6 +63,6 @@ user_groups:
   - Researchers
 ---
 
-Xin Li is a professor of .
+Xin Li is a professor of Developmental Biology at NEFU.Contact:xli@nefu.edu.cn
 
 

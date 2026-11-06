@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'xli@nefu.edu.cn'
+    link: mailto:xli@nefu.edu.cn''
   - icon: google-scholar
     icon_pack: ai
     link: 

@@ -10,7 +10,7 @@ sections:
       title: |
         Li Lab 
       image:
-        filename: welcome.jpg
+        filename: Lilab.jpg
       text: |
         <br>
         

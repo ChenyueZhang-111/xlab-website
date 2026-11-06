@@ -2,7 +2,7 @@
 title: "Two Arabidopsis promoters drive seed-coat specific gene expression in pennycress and camelina"
 authors:
 - admin
-date: "2023-10-6"
+date: "2023-10-06"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,19 +29,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://doi.org/10.1186/s13007-023-01114-x
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+url_pdf: http://doi.org/10.1186/s13007-023-01114-x        
 url_code: ''
 url_dataset: ''
 url_poster: ''

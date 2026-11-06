@@ -2,11 +2,7 @@
 title: "An example journal article"
 authors:
 - admin
-- 
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: ""
+date: "2023"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

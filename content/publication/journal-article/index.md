@@ -17,13 +17,13 @@ publication_types: ["article-journal"]
 publication: "Plant Methods"
 publication_short: ""
 
-Background:Pennycress and camelina are two important novel biofuel oilseed crop species. Their seeds contain high content of oil that can be easily converted into biodiesel or jet fuel, while the left-over materials are usually made into press cake meals for feeding livestock. Therefore, the ability to manipulate the seed coat encapsulating the oil- and protein-rich embryos is critical for improving seed oil production and press cake quality.
+Background:"Pennycress and camelina are two important novel biofuel oilseed crop species. Their seeds contain high content of oil that can be easily converted into biodiesel or jet fuel, while the left-over materials are usually made into press cake meals for feeding livestock. Therefore, the ability to manipulate the seed coat encapsulating the oil- and protein-rich embryos is critical for improving seed oil production and press cake quality."
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-- Source Themes
+- Source
 featured: false
 
 # links:

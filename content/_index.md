@@ -14,7 +14,7 @@ sections:
         
         Welcome to Professor Xin Li's Research Group.
     image:
-        filename: https://chenyuezhang-111.github.io/xlab-website/Lilab.jpg
+      filename: https://chenyuezhang-111.github.io/xlab-website/Lilab.jpg
   - block: collection
     content:
       title: Latest News

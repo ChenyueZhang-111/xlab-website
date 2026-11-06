@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xin Li
 
 # Full Name (for SEO)
 first_name: Xin

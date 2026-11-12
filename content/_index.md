@@ -14,13 +14,13 @@ sections:
         
         Welcome to Professor Xin Li's Research Group.
     image:
-      filename: /Lilab.jpg
+      filename: Lilab.jpg
   - block: collection
     content:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 2
       filters:
         author: ''
         category: ''
@@ -58,7 +58,7 @@ sections:
     content:
       title: Latest Preprints
       text: ""
-      count: 5
+      count: 2
       filters:
         folders:
           - publication

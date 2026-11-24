@@ -1,6 +1,6 @@
 ---
 title: Chenyue Zhang
-avatar_filename: zcy.jpg
+avatar_filename: zcy.png
 first_name: Chenyue
 last_name: Zhang
 role: 硕士研究生  

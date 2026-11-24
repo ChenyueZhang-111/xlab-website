@@ -5,7 +5,7 @@ date: 2024-07-20
 
 <!--more-->
 
-# Professor Xin Li Joins Northeast Forestry University Following His Return to China
+# 
 
 Following his return to China, Dr. Xin Li was appointed Professor and Doctoral Supervisor at the College of Life Sciences, Northeast Forestry University, and selected for the university's Chengdong Outstanding Talent Program.
 

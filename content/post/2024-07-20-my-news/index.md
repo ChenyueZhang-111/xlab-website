@@ -2,7 +2,6 @@
 title: Professor Xin Li Joins Northeast Forestry University Following His Return to China
 date: 2024-07-20
 tags:
-  - editor: Chenyue Zhang
   - LabUpdates
 
 ---
@@ -22,3 +21,6 @@ His research also explores the application of fundamental findings to the geneti
 Professor Li has published research articles in internationally recognized journals, including *The Plant Cell*, *The Plant Journal*, *Plant Methods*, and *Current Opinion in Plant Biology*.
 
 His appointment strengthens the research capabilities of Northeast Forestry University in plant secondary cell wall biology, lignin biosynthesis, plant growth and development, and stress responses, bringing new opportunities for interdisciplinary collaboration and scientific innovation.
+
+---
+editor: Chenyue Zhang

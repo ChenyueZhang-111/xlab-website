@@ -1,14 +1,20 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Professor Xin Li Joins Northeast Forestry University Following His Return to China
+date: 2024-7
 ---
-
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+# Professor Xin Li Joins Northeast Forestry University Following His Return to China
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+Following his return to China, Dr. Xin Li was appointed Professor and Doctoral Supervisor at the College of Life Sciences, Northeast Forestry University, and selected for the university's Chengdong Outstanding Talent Program.
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+Dr. Li received his bachelor's degree in Biology from Wuhan University in 2010 and his Ph.D. in Plant Biology from the University of Minnesota, USA, in 2017. From 2018 to 2024, he conducted postdoctoral research at North Carolina State University and the University of California, Berkeley. In July 2024, he officially joined Northeast Forestry University.
+
+Professor Li's research focuses on plant secondary cell wall formation and the biosynthesis and regulation of lignin, with particular emphasis on the roles of lignin in plant growth, development, and responses to biotic and abiotic stresses. His research integrates molecular biology, functional genomics, and genome-editing approaches to investigate the molecular mechanisms underlying lignin metabolism and regulation.
+
+His research also explores the application of fundamental findings to the genetic improvement of economically important plants, including *Arabidopsis thaliana*, alfalfa, *Camelina*, flax, and poplar. These studies aim to contribute to the development of high-quality forage crops, cold-tolerant oilseed crops, and improved woody plant resources.
+
+Professor Li has published research articles in internationally recognized journals, including *The Plant Cell*, *The Plant Journal*, *Plant Methods*, and *Current Opinion in Plant Biology*.
+
+His appointment strengthens the research capabilities of Northeast Forestry University in plant secondary cell wall biology, lignin biosynthesis, plant growth and development, and stress responses, bringing new opportunities for interdisciplinary collaboration and scientific innovation.

@@ -1,2 +1,2 @@
 user_groups:
-  - students
+  - Students

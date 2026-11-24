@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Xin Li
+title: Xin Li 
+avatar_filename: avatar.png
 
 # Full Name (for SEO)
 first_name: Xin

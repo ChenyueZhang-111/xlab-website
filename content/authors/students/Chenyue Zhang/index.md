@@ -1,7 +1,9 @@
 ---
-# Display name
-title: Chenyue Zhang 
+title: Chenyue Zhang
 avatar_filename: zcy.jpg
+first_name: Chenyue
+last_name: Zhang
+role: 硕士研究生  
 user_groups:
-  - Students
+  - Grad Students
 ---

@@ -1,7 +1,10 @@
 ---
 title: Professor Xin Li Joins Northeast Forestry University Following His Return to China
 date: 2024-07-20
-editor: Chenyue Zhang
+tags:
+  - editor: Chenyue Zhang
+  - LabUpdates
+
 ---
 
 <!--more-->

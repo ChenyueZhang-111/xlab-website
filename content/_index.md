@@ -13,8 +13,8 @@ sections:
         <br>
         
         Welcome to Professor Xin Li's Research Group.
-    images:
-      Lilab_filename: Lilab.jpg
+    image:
+      filename: Lilab.jpg
   - block: collection
     content:
       title: Latest News

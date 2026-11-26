@@ -1,6 +1,6 @@
 ---
 title: Haoyu Cai
-chy_filename: chy.jpg
+avatar_filename: avatar.jpg
 first_name: Haoyu
 last_name: Cai
 role: 2027级博士研究生
